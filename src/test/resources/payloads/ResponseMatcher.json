@@ -1,0 +1,48 @@
+[
+  {
+    "SC1": [
+      {
+        "jobId": 1,
+        "jobTitle": "Software Engg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+          "Google",
+          "Apple",
+          "Mobile Iron"
+        ],
+        "project": [
+          {
+            "projectName": "Movie App",
+            "technology": [
+              "Kotlin",
+              "SQL Lite",
+              "Gradle"
+            ]
+          }
+        ]
+      }
+    ],
+    "SC2": [
+      {
+        "jobId": 1,
+        "jobTitle": "Software gg",
+        "jobDescription": "To develop andriod application",
+        "experience": [
+          "Google",
+          "Apple",
+          "Mobile Iron"
+        ],
+        "project": [
+          {
+            "projectName": "Movie App",
+            "technology": [
+              "Kotlin",
+              "SQL Lite",
+              "Gradle"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

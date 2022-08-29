@@ -1,0 +1,20 @@
+[
+  {
+    "SC1": {
+      "accept": "application/json",
+      "content-type": "application/json"
+    },
+    "SC2": {
+      "accept": "application/json",
+      "content-type": "application/json"
+    },
+    "SC3": {
+      "accept": "application/xml",
+      "content-type": "application/xml"
+    },
+    "SC4": {
+      "accept": "application/xml",
+      "content-type": "application/xml"
+    }
+  }
+]
